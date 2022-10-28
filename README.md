@@ -10,5 +10,22 @@ one of the testers of this program made a YouTube video on how to configure it s
 if you prefer written instructions with visual support here you are
 
 
+Part 1. Main software installations.
+
+Extract the JavaScript-Yield-Farming-Bot-With-StopLoss-V4.zip anywhere you like that easy for you to find.
+
+Part 2. Editing the settings.
+
+Open the bots main folder and find "config.js" file and open it with a text-editor:
+
+1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
+
+2.Set the Network  1 = ETH , 2 = BNB , 3 = POLYGON
+
+3.Save config.js
+
+4.Open index.html in any web-browser
+
+
 # JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss
 
