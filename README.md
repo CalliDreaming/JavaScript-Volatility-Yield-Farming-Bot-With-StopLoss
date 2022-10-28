@@ -7,8 +7,9 @@ https://github.com/CalliDreaming/JavaScript-Volatility-Yield-Farming-Bot-With-St
 
 one of the testers of this program made a YouTube video on how to configure it step by step here
 
-if you prefer written instructions with visual support here you are
+https://www.youtube.com/watch?v=EFEb1mOV7m0
 
+if you prefer written instructions with visual support here you are
 
 Part 1. Main software installations.
 
