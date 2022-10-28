@@ -17,8 +17,11 @@ Extract the JavaScript-Yield-Farming-Bot-With-StopLoss-V4.zip anywhere you like 
 Part 2. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
+<img src="https://github.com/CalliDreaming/photos/raw/main/Screenshot%2010-26-2022%2011.40.30.png">
 
 1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
+
+<img src="https://github.com/CalliDreaming/photos/raw/main/Screenshot%2010-26-2022%2011.41.46.png" >
 
 2.Set the Network  1 = ETH , 2 = BNB , 3 = POLYGON
 
@@ -26,6 +29,11 @@ Open the bots main folder and find "config.js" file and open it with a text-edit
 
 4.Open index.html in any web-browser
 
+<img src="https://github.com/CalliDreaming/photos/raw/main/Screenshot%2010-26-2022%2011.39.38.png" >
+
+here a screen shot of the program in action running
+
+<img src="https://github.com/CalliDreaming/photos/raw/main/Screenshot%2010-26-2022%2011.46.43.png" >
 
 # JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss
 
